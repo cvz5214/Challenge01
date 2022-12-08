@@ -19,3 +19,6 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+## Deployed
+https://cvz5214.github.io/Challenge01/Develop/
